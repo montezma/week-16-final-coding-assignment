@@ -8,7 +8,7 @@ const Contact = () => {
                 <div className="form-container">
                     <form>
                         <h1><span>Contact</span></h1>
-                        <p>feel free to reach out!</p>
+                        <p>Feel free to reach out!</p>
                         <div>
                             <label>Name</label>
                             <input type="text" placeholder='Enter your name'/>

@@ -2,7 +2,7 @@
     width: 100%;
     height: 100vh;
     position: relative;
-    background: rgba(0, 0, 0, .1);
+    background: rgba(0, 0, 0, 0.1);
 }
 
 .greeter2:before {
@@ -33,7 +33,7 @@
         left: 0;
         width: 100%;
         padding: 1rem;
-        background: rgba(255, 255, 255, .7);
+        background: rgba(0, 0, 0, 0.7);
     }
 }
 

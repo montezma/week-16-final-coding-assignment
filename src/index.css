@@ -4,6 +4,7 @@
   --primary-color: #ffffff;
   --primary-dark: #0d2154;
 }
+
 span {
   color: var(--primary-color);
 }
@@ -52,7 +53,7 @@ h2 {
 
 .container {
   max-width: 1240px;
-  margin: auto;
+  margin: 10px auto;
   height: 100%;
   position: relative;
 }
